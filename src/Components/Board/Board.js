@@ -1,5 +1,5 @@
 import "./Board.css";
-
+import React from 'react';
 import LoadingSpinner from "../LoadingSpinner.js";
 import { useState, useEffect } from "react";
 import axios from "axios";
@@ -8,9 +8,8 @@ import {
   Card,
   CardContent,
   Grid,
-  TextField,
   Typography
-} from "@material-ui/core";
+} from "@mui/material";
 import Box from "@mui/material/Box";
 
 export default function Board() {

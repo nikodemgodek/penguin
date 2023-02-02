@@ -1,5 +1,5 @@
 import "./Rooms.css";
-
+import React from 'react';
 import Box from "@mui/material/Box";
 import RoomsTable from "./RoomsTable";
 

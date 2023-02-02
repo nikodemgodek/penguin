@@ -10,7 +10,7 @@ import {
   Grid,
   TextField,
   Typography
-} from "@material-ui/core";
+} from "@mui/material";
 
 import Radio from "@mui/material/Radio";
 import Button from "@mui/material/Button";

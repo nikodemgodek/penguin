@@ -1,14 +1,13 @@
+import React from 'react';
 import "./CheckOut.css";
 import { useState } from "react";
 
 import {
-  Card,
-  CardContent,
   Grid,
-  makeStyles,
   TextField,
   Typography
-} from "@material-ui/core";
+} from "@mui/material";
+
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Paper from "@mui/material/Paper";

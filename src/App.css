@@ -1,0 +1,13 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    background: #f1f1f1;
+    display: flex;
+  }
+  
+  * {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto";
+  }
+  

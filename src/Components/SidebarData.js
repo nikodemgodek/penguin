@@ -1,7 +1,7 @@
+import React from 'react';
 import PersonIcon from "@mui/icons-material/Person";
 import BedIcon from "@mui/icons-material/Bed";
 import DateRangeIcon from "@mui/icons-material/DateRange";
-import EventBusyIcon from "@mui/icons-material/EventBusy";
 import BuildIcon from "@mui/icons-material/Build";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 

@@ -1,5 +1,5 @@
 import "./Guests.css";
-
+import React from 'react';
 import Box from "@mui/material/Box";
 import GuestsTable from "./GuestsTable";
 
